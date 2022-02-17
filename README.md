@@ -24,6 +24,8 @@ Your code for generating your project:
 
 - Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
 
+- Talk about my different results.
+
 ## Technical Notes
 
 Any implementation details or notes we need to repeat your work. 
